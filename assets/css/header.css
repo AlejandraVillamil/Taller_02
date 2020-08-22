@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     margin: 0px;
@@ -124,3 +125,4 @@ section {
 .socialIcons ul li:hover{
     transform: scale(0.9);
 }
+
